@@ -12,7 +12,7 @@ while(isalive);
 function code(){
 alert("hello world!")
 }
-``
+```
 this is my contacts:
 * [my telegram]()
 * [my instagram]()
